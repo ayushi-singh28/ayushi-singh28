@@ -29,7 +29,8 @@ Fun Fact
 
 ☕ I debug better after coffee.
 
-Connect With Me
+Connect With Me -
 
 💼 LinkedIn: https://www.linkedin.com/in/ayushi-kumari-a0680a2b2
+<br>
 ✉️ Gmail: ayushiisingh28@gmail.com
