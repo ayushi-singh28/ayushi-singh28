@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi there!, I'm Ayushi Kumari ✨
 
-<!--
-**ayushi-singh28/ayushi-singh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓2nd year BTech CSE Student
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development and Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Python, DSA, Git & GitHub
+
+🚀 Building projects and exploring new technologies
+
+✨ Turning ideas into code, one commit at a time
+
+Tech Stack
+
+- Python
+- Git & GitHub
+- HTML
+- CSS
+- SQL (Learning)
+
+Current Goals
+
+- Strengthen DSA skills
+- Build impactful projects
+- Contribute to Open Source
+- Grow my developer portfolio
+
+Fun Fact
+
+☕ I debug better after coffee.
+
+Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/ayushi-kumari-a0680a2b2
+✉️ Gmail: ayushiisingh28@gmail.com
