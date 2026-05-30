@@ -1,4 +1,4 @@
-Hi there!, I'm Ayushi Kumari ✨
+Hi there!, I'm ***Ayushi Kumari*** ✨
 
 🎓2nd year BTech CSE Student
 
