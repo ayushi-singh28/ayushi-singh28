@@ -18,7 +18,7 @@
 - CSS
 - SQL (Learning)
 
-***Current Goals***
+***Current Goals***🎯
 
 - Strengthen DSA skills
 - Build impactful projects
