@@ -10,7 +10,7 @@
 
 ✨ Turning ideas into code, one commit at a time
 
-**Tech Stack**
+***Tech Stack***
 
 - Python
 - Git & GitHub
@@ -18,18 +18,18 @@
 - CSS
 - SQL (Learning)
 
-**Current Goals**
+***Current Goals***
 
 - Strengthen DSA skills
 - Build impactful projects
 - Contribute to Open Source
 - Grow my developer portfolio
 
-**Fun Fact**
+***Fun Fact***
 
 ☕ I debug better after coffee.
 
-**Connect With Me -**
+***Connect With Me -***
 
 💼 LinkedIn: https://www.linkedin.com/in/ayushi-kumari-a0680a2b2
 <br>
